@@ -1,4 +1,4 @@
-let fileName = prompt("name");
+let fileName = prompt("file name");
 
 document.getElementById("btn").onclick = function() {
     let fileContent = document.getElementById("input").value;
